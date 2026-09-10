@@ -1,2 +1,2 @@
-# care_delivery_analytics_projects
+# Care Delivery Analytics
 This repository stores Care Delivery analytics projects
